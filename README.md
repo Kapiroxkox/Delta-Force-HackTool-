@@ -1,7 +1,5 @@
 # 🎯 Delta Force Hack Tool 
 
-![Delta Force Banner](https://via.placeholder.com/800x300?text=Delta+Force+Hack+Tool)
-
 
 
 ## ✨ Features
